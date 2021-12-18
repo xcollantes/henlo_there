@@ -1,6 +1,6 @@
 # henlo_there
 
-shorturl.at/qBGJZ
+https://bit.ly/x0o12
 
 If you're reading this file, then you have been effected by the log4j vulnerability ([CVE-2021-45105][1]).  
 
